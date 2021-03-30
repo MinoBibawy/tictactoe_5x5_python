@@ -3,8 +3,6 @@
   Returns:
       [Autore]: [Mino Bibawy]
       
-      [Esame]: [Programmazione avanzata Python e Arduino]
-      
       [Descrizione Progetto]: [
                               Tic Tac Toe, 
                               matrice di 5x5,
